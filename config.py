@@ -101,15 +101,9 @@ class Txt(object):
 """
 
     DONATE_TXT = """
-<blockquote>❤️‍🔥 𝐓𝐡𝐚𝐧𝐤𝐬 𝐟𝐨𝐫 𝐬𝐡𝐨𝐰𝐢𝐧𝐠 𝐢𝐧𝐭𝐞𝐫𝐞𝐬𝐭 𝐢𝐧 𝐃𝐨𝐧𝐚𝐭𝐢𝐨𝐧</blockquote>
+<blockquote>❤️‍🔥 ᴛʜᴀɴᴋs ғᴏʀ sʜᴏᴡɪɴɢ ɪɴᴛᴇʀᴇsᴛ ɪɴ ᴅᴏɴᴀᴛɪᴏɴ</blockquote>
 
-<b><i>💞  ɪꜰ ʏᴏᴜ ʟɪᴋᴇ ᴏᴜʀ ʙᴏᴛ ꜰᴇᴇʟ ꜰʀᴇᴇ ᴛᴏ ᴅᴏɴᴀᴛᴇ ᴀɴʏ ᴀᴍᴏᴜɴᴛ ₹𝟷𝟶, ₹𝟸𝟶, ₹𝟻𝟶, ₹𝟷𝟶𝟶, ᴇᴛᴄ.</i></b>
-
-❣️ 𝐷𝑜𝑛𝑎𝑡𝑖𝑜𝑛𝑠 𝑎𝑟𝑒 𝑟𝑒𝑎𝑙𝑙𝑦 𝑎𝑝𝑝𝑟𝑒𝑐𝑖𝑎𝑡𝑒𝑑 𝑖𝑡 ℎ𝑒𝑙𝑝𝑠 𝑖𝑛 𝑏𝑜𝑡 𝑑𝑒𝑣𝑒𝑙𝑜𝑝𝑚𝑒𝑛𝑡
-
-💖 𝐔𝐏𝐈 𝐈𝐃 : `TechifyRahul@UPI`
-
-💗 𝐐𝐑 𝐂𝐨𝐝𝐞 : <b><a href='https://TechifyBots.github.io/PayWeb'>𝖢𝗅𝗂𝖼𝗄 𝖧𝖾𝗋𝖾</a></b>
+💗 𝗨𝗣𝗜 𝗜𝗗 & 𝗤𝗥 𝗖𝗢𝗗𝗘 : <b><a href='https://graph.org/Donate-06-01'>𝖢𝗅𝗂𝖼𝗄 𝖧𝖾𝗋𝖾</a></b>
 """
 
     SEND_METADATA = """💯 𝗛𝗼𝘄 𝗧𝗼 𝗦𝗲𝘁 𝗖𝘂𝘀𝘁𝗼𝗺 𝗠𝗲𝘁𝗮𝗱𝗮𝘁𝗮

@@ -52,7 +52,7 @@ async def query_metadata(bot: Client, query: CallbackQuery):
             print(metadata.text)
             ms = await query.message.reply_text("**Please Wait...**", reply_to_message_id=metadata.id)
             await jishubotz.set_metadata_code(query.from_user.id, metadata_code=metadata.text)
-            await ms.edit("**Your Metadata Code Set Successfully ✅**")
+            await ms.edit("**Your Metadata Text Set Successfully ✅**")
         except Exception as e:
             print(e)
 
